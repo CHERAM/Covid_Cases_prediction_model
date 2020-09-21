@@ -1,4 +1,4 @@
-# FLIPR HACKATHON 5.0
+# FLIPR HACKATHON 6.0
 This repo contains the Jupyter notebook and associated data for the machine learning model for Covid_Cases prediction built based on the problem statement given.
 
 # Description:
